@@ -1,7 +1,7 @@
 
 # 🪖 Survive in WAR – 3D Survival
 
-**Survive in War** is a third-person, 3D survival RPG built in Unity. Set in WW2, the player takes on the role of a lone soldier, and constantly fighting enemy soldier driven by AI. The game has been created in just 2 days.
+**Survive in War** is a third-person, 3D survival RPG built in Unity. Set in WW2, the player takes on the role of a lone soldier, and constantly fighting enemy soldier driven by AI.The game features wave-based combat, where each new wave introduces tougher enemies. As the player survives and progresses, the difficulty steadily increases.
 
 ---
 
